@@ -1,0 +1,498 @@
+Price,Mileage,Make,Model,Trim,Type,Cylinder
+17314.10313,8221,Buick,Century,Sedan 4D,Sedan,6
+17542.03608,9135,Buick,Century,Sedan 4D,Sedan,6
+16218.84786,13196,Buick,Century,Sedan 4D,Sedan,6
+16336.91314,16342,Buick,Century,Sedan 4D,Sedan,6
+16339.17032,19832,Buick,Century,Sedan 4D,Sedan,6
+15709.05282,22236,Buick,Century,Sedan 4D,Sedan,6
+15230.00339,22576,Buick,Century,Sedan 4D,Sedan,6
+15048.04218,22964,Buick,Century,Sedan 4D,Sedan,6
+14862.09387,24021,Buick,Century,Sedan 4D,Sedan,6
+15295.01827,27325,Buick,Century,Sedan 4D,Sedan,6
+21335.85248,10237,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+20538.08751,15066,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+20512.09409,16633,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+19924.15905,19800,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+19774.24907,23359,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+19344.16554,23765,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+19105.13012,24008,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+18543.42705,26034,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+17808.199,32896,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+17968.83828,34665,Buick,Lacrosse,CX Sedan 4D,Sedan,6
+22358.87768,8970,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+23785.92253,10577,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+22926.09037,14363,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+21895.75878,16508,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+21273.06171,18908,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+21460.01395,19467,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+21183.12359,21394,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+20406.0995,22596,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+21058.13958,24469,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+19556.89932,25245,Buick,Lacrosse,CXL Sedan 4D,Sedan,6
+23447.68656,15755,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+23547.23944,16235,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+23016.00801,18147,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+22230.0275,22102,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+22625.07357,23612,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+21799.1721,24439,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+21341.25721,25212,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+21683.03146,26779,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+20986.01602,27096,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+20902.10379,29649,Buick,Lacrosse,CXS Sedan 4D,Sedan,6
+20698.07708,2992,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+20099.25684,10036,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+18145.12649,18339,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+17944.85692,19592,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+19027.86231,21797,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+18348.89857,23852,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+17750.88457,25040,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+17772.96968,25052,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+17394.0214,25464,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+17645.74504,27830,Buick,Lesabre,Custom Sedan 4D,Sedan,6
+21908.36662,17353,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+21956.34266,17787,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+21646.11692,19562,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+21575.45683,20137,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+20952.2178,20158,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+21562.04758,23767,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+19981.12791,24323,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+19425.84862,27839,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+19191.98962,29187,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+19641.7419,31324,Buick,Lesabre,Limited Sedan 4D,Sedan,6
+25589.98315,2308,Buick,Park Avenue,Sedan 4D,Sedan,6
+25098.62906,10014,Buick,Park Avenue,Sedan 4D,Sedan,6
+23420.70695,18910,Buick,Park Avenue,Sedan 4D,Sedan,6
+22661.04849,20105,Buick,Park Avenue,Sedan 4D,Sedan,6
+23493.0823,20453,Buick,Park Avenue,Sedan 4D,Sedan,6
+22435.20282,22287,Buick,Park Avenue,Sedan 4D,Sedan,6
+21878.12,23237,Buick,Park Avenue,Sedan 4D,Sedan,6
+23077.56591,23798,Buick,Park Avenue,Sedan 4D,Sedan,6
+21698.01475,25489,Buick,Park Avenue,Sedan 4D,Sedan,6
+21831.82292,25564,Buick,Park Avenue,Sedan 4D,Sedan,6
+26831.19404,4695,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+26060.33535,9795,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+26781.81465,12052,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+26302.07428,13050,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+26190.27147,17335,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+25508.21096,17480,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+23348.01695,24027,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+23406.68982,25387,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+23159.54378,25869,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+21536.74173,37128,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6
+51154.04722,2202,Cadillac,CST-V,Sedan 4D,Sedan,8
+49248.15897,6685,Cadillac,CST-V,Sedan 4D,Sedan,8
+46747.67327,15343,Cadillac,CST-V,Sedan 4D,Sedan,8
+44130.61706,21341,Cadillac,CST-V,Sedan 4D,Sedan,8
+44084.91421,21367,Cadillac,CST-V,Sedan 4D,Sedan,8
+43892.46788,23371,Cadillac,CST-V,Sedan 4D,Sedan,8
+44300.63996,23751,Cadillac,CST-V,Sedan 4D,Sedan,8
+42677.60112,24052,Cadillac,CST-V,Sedan 4D,Sedan,8
+43374.05242,25199,Cadillac,CST-V,Sedan 4D,Sedan,8
+40619.07227,30082,Cadillac,CST-V,Sedan 4D,Sedan,8
+33417.96501,6598,Cadillac,CTS,Sedan 4D,Sedan,6
+30957.08075,10625,Cadillac,CTS,Sedan 4D,Sedan,6
+31431.13037,11013,Cadillac,CTS,Sedan 4D,Sedan,6
+30781.51563,14937,Cadillac,CTS,Sedan 4D,Sedan,6
+30646.4377,17094,Cadillac,CTS,Sedan 4D,Sedan,6
+30792.14903,17870,Cadillac,CTS,Sedan 4D,Sedan,6
+30392.75016,18449,Cadillac,CTS,Sedan 4D,Sedan,6
+28817.08185,21039,Cadillac,CTS,Sedan 4D,Sedan,6
+29275.20871,21056,Cadillac,CTS,Sedan 4D,Sedan,6
+28040.12853,27484,Cadillac,CTS,Sedan 4D,Sedan,6
+39801.55135,14095,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+40335.73731,14743,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+39307.00916,16041,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+38600.23956,17138,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+38445.89717,18661,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+36077.79612,21966,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+35866.58271,24415,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+35338.65369,25163,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+36154.30355,25339,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+34685.66298,25421,Cadillac,Deville,DHS Sedan 4D,Sedan,8
+42820.32902,5499,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+41378.04809,8125,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+40856.3909,12791,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+41419.03726,14452,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+37510.25357,21593,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+37215.16938,22211,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+36332.89469,25153,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+36245.15823,26250,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+32954.14134,36074,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+32537.18675,41829,Cadillac,Deville,DTS Sedan 4D,Sedan,8
+35715.76856,6447,Cadillac,Deville,Sedan 4D,Sedan,8
+35651.68002,10555,Cadillac,Deville,Sedan 4D,Sedan,8
+35129.34077,11975,Cadillac,Deville,Sedan 4D,Sedan,8
+35165.75937,13449,Cadillac,Deville,Sedan 4D,Sedan,8
+32501.24519,17508,Cadillac,Deville,Sedan 4D,Sedan,8
+33220.02845,18661,Cadillac,Deville,Sedan 4D,Sedan,8
+32509.47829,20910,Cadillac,Deville,Sedan 4D,Sedan,8
+31132.21349,23124,Cadillac,Deville,Sedan 4D,Sedan,8
+31181.71516,26222,Cadillac,Deville,Sedan 4D,Sedan,8
+31059.18103,27544,Cadillac,Deville,Sedan 4D,Sedan,8
+42741.52367,2846,Cadillac,STS-V6,Sedan 4D,Sedan,6
+40966.60741,7476,Cadillac,STS-V6,Sedan 4D,Sedan,6
+38795.37909,13973,Cadillac,STS-V6,Sedan 4D,Sedan,6
+38297.46254,16754,Cadillac,STS-V6,Sedan 4D,Sedan,6
+37192.89637,19100,Cadillac,STS-V6,Sedan 4D,Sedan,6
+36210.123,21778,Cadillac,STS-V6,Sedan 4D,Sedan,6
+36633.63382,22042,Cadillac,STS-V6,Sedan 4D,Sedan,6
+35895.49941,23056,Cadillac,STS-V6,Sedan 4D,Sedan,6
+34974.37804,25796,Cadillac,STS-V6,Sedan 4D,Sedan,6
+32038.33956,35326,Cadillac,STS-V6,Sedan 4D,Sedan,6
+48310.32954,788,Cadillac,STS-V8,Sedan 4D,Sedan,8
+48365.9809,2616,Cadillac,STS-V8,Sedan 4D,Sedan,8
+45061.95194,13829,Cadillac,STS-V8,Sedan 4D,Sedan,8
+44205.87588,15104,Cadillac,STS-V8,Sedan 4D,Sedan,8
+42377.95544,18581,Cadillac,STS-V8,Sedan 4D,Sedan,8
+41671.58314,20575,Cadillac,STS-V8,Sedan 4D,Sedan,8
+41516.42986,23861,Cadillac,STS-V8,Sedan 4D,Sedan,8
+41053.48217,25717,Cadillac,STS-V8,Sedan 4D,Sedan,8
+38208.50102,31303,Cadillac,STS-V8,Sedan 4D,Sedan,8
+39072.39205,31587,Cadillac,STS-V8,Sedan 4D,Sedan,8
+70755.46672,583,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+68566.18719,6420,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+69133.73172,7892,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+66374.30704,12021,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+65281.48124,15600,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+63913.11725,18200,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+60567.54909,23193,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+57154.44344,29260,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+55639.08765,31805,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+52001.99438,42691,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8
+12146.18803,10011,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+12163.82042,12101,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+11472.02276,19699,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+11017.16871,20100,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+11096.85727,20334,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+10386.04022,22225,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+11137.04565,22484,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+11045.10884,24568,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+10777.05254,27906,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+9928.188175,29680,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4
+12649.11089,3629,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+12314.59122,4142,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+11318.00809,11156,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+12409.94909,11981,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+11555.2674,13404,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+11700.11149,15253,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+11215.01865,19945,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+10144.95208,23963,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+10491.0752,30948,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+9954.054174,37345,Chevrolet,AVEO,LS Sedan 4D,Sedan,4
+11031.12993,20156,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11343.05401,20186,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11391.21372,21421,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11247.86253,21427,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+10921.94537,23119,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11179.95357,23121,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11394.8864,25107,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11070.06064,25476,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11013.87137,25746,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11115.01364,30056,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4
+11918.45607,7278,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+12408.80615,10213,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+11302.90299,14627,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+11615.02102,19014,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+10805.13009,21013,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+11169.91839,22380,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+10770.10655,25065,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+10872.01393,25869,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+10921.94537,27776,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+9919.048185,34621,Chevrolet,AVEO,LT Sedan 4D,Sedan,4
+10813.34352,266,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+11167.861,4716,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+10897.07651,6699,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+10106.01643,14200,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+10354.04385,14521,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+10287.97736,16521,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+9720.97889,20836,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+9506.047937,22169,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+9789.037676,22986,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+9220.829677,29992,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4
+10971.09561,7091,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+10315.01823,14438,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+9654.060142,19183,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+9563.789309,19273,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+9665.84886,19565,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+9482.219404,24842,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+8638.930895,25216,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+9041.906254,26191,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+8870.947316,32914,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+8768.998585,35299,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4
+13007.98418,7372,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+13041.874,13607,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+12045.9207,19136,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+12469.52758,19712,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+11539.84565,22405,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+11726.00297,23103,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+12207.87293,23512,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+11203.14611,27364,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+10788.97036,31436,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+11149.6183,34447,Chevrolet,Cavalier,Coupe 2D,Coupe,4
+14584.44812,1160,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+13681.698,10210,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+13446.21342,17741,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+12327.64161,19347,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+12274.95758,19612,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+12630.77503,22571,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+12425.38917,22771,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+12319.69625,24568,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+12549.89233,25816,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+12234.88805,30297,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4
+14894.98259,2464,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+14198.09246,11322,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+14678.10533,11488,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+13167.70232,14630,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+13471.00508,18910,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+12573.89994,25048,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+12383.40281,25069,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+13230.91867,25862,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+11080.51638,36855,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+11328.95887,39946,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4
+15053.93373,4652,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+14397.92808,5189,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+14642.32358,6224,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+13464.80288,14231,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+13678.863,17971,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+12507.48527,19715,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+13141.04795,19898,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+13594.08559,20682,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+12733.85792,21386,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+12230.09977,28408,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4
+14222.3054,8427,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+14266.91258,8615,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+14255.74768,16958,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+13762.90145,18040,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+14275.12764,18533,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+13688.00011,18766,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+13308.83375,20043,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+14145.88099,20512,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+12944.93875,21684,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+12846.06159,27560,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4
+14061.12277,4922,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+13072.84163,14311,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+11699.03392,19816,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+12257.16409,21492,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+11574.17381,21525,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+11539.04853,24163,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+12243.06062,25014,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+11671.85813,25727,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+11464.62886,29410,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+10546.78275,38866,Chevrolet,Cavalier,Sedan 4D,Sedan,4
+15553.20871,7695,Chevrolet,Classic,Sedan 4D,Sedan,4
+15047.00274,12305,Chevrolet,Classic,Sedan 4D,Sedan,4
+13540.04164,17343,Chevrolet,Classic,Sedan 4D,Sedan,4
+14077.96885,17445,Chevrolet,Classic,Sedan 4D,Sedan,4
+12981.95203,20309,Chevrolet,Classic,Sedan 4D,Sedan,4
+13436.00015,20530,Chevrolet,Classic,Sedan 4D,Sedan,4
+13161.94283,21145,Chevrolet,Classic,Sedan 4D,Sedan,4
+14220.01322,23069,Chevrolet,Classic,Sedan 4D,Sedan,4
+12379.12647,31199,Chevrolet,Classic,Sedan 4D,Sedan,4
+11581.90504,36566,Chevrolet,Classic,Sedan 4D,Sedan,4
+14023.93855,13776,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+12810.91058,19461,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+13135.90503,21796,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+13106.90042,21910,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+12845.17425,22382,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+12570.13668,22479,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+12897.92954,23200,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+11961.61996,27394,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+12706.91135,27521,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+12487.05429,28492,Chevrolet,Cobalt,Coupe 2D,Coupe,4
+15635.79616,1169,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+15747.80397,6048,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+14619.07856,15768,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+14185.02155,20374,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+13699.03578,25845,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+13310.05959,26143,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+13530.06864,27249,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+13019.07114,27942,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+12684.98623,29891,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+12553.07143,32844,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4
+14997.88434,8880,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+14847.04415,12980,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+15128.99224,13828,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+15000.99271,14504,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+14593.8541,18790,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+14304.74104,21128,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+13688.94568,21611,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+13744.84985,23748,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+13545.0309,27431,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+12741.19023,34815,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4
+16116.84392,865,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+16428.57898,9882,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+15084.8154,14824,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+15163.16986,17158,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+14897.04055,18210,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+14508.75009,18910,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+14418.16529,19818,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+14191.88228,21181,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+14401.90693,21527,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+14175.87908,21627,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4
+14429.78964,6114,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+14696.02899,6709,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+14582.76912,7115,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+14194.8236,9561,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+14072.13523,15233,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+13994.90646,17270,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+13830.24902,17594,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+13159.82154,22740,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+12495.97075,26204,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+12678.85397,28683,Chevrolet,Cobalt,Sedan 4D,Sedan,4
+46732.60603,3625,Chevrolet,Corvette,Conv 2D,Convertible,8
+47065.20991,5239,Chevrolet,Corvette,Conv 2D,Convertible,8
+44749.68679,12115,Chevrolet,Corvette,Conv 2D,Convertible,8
+42773.02839,14546,Chevrolet,Corvette,Conv 2D,Convertible,8
+41371.37927,20000,Chevrolet,Corvette,Conv 2D,Convertible,8
+39547.5879,23826,Chevrolet,Corvette,Conv 2D,Convertible,8
+39691.7274,25169,Chevrolet,Corvette,Conv 2D,Convertible,8
+38824.86909,25960,Chevrolet,Corvette,Conv 2D,Convertible,8
+36970.89805,30502,Chevrolet,Corvette,Conv 2D,Convertible,8
+37288.93674,32039,Chevrolet,Corvette,Conv 2D,Convertible,8
+39875.85426,7054,Chevrolet,Corvette,Coupe 2D,Coupe,8
+39713.66792,8967,Chevrolet,Corvette,Coupe 2D,Coupe,8
+38990.60733,9410,Chevrolet,Corvette,Coupe 2D,Coupe,8
+39092.18992,10717,Chevrolet,Corvette,Coupe 2D,Coupe,8
+39365.88324,11619,Chevrolet,Corvette,Coupe 2D,Coupe,8
+35261.43643,21350,Chevrolet,Corvette,Coupe 2D,Coupe,8
+35575.41705,22740,Chevrolet,Corvette,Coupe 2D,Coupe,8
+34297.30535,24259,Chevrolet,Corvette,Coupe 2D,Coupe,8
+34739.21496,25747,Chevrolet,Corvette,Coupe 2D,Coupe,8
+31186.74146,34191,Chevrolet,Corvette,Coupe 2D,Coupe,8
+21757.04951,1853,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+19528.10043,14115,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+19075.67875,18198,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+19409.75261,18795,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+18527.20897,19874,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+18912.9816,21512,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+17839.80077,25453,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+17789.34673,26980,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+17294.181,29368,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+18083.3963,29420,Chevrolet,Impala,LS Sedan 4D,Sedan,6
+20021.19521,1787,Chevrolet,Impala,Sedan 4D,Sedan,6
+18835.18976,8211,Chevrolet,Impala,Sedan 4D,Sedan,6
+18727.50838,14054,Chevrolet,Impala,Sedan 4D,Sedan,6
+16805.05739,19498,Chevrolet,Impala,Sedan 4D,Sedan,6
+17154.57646,21567,Chevrolet,Impala,Sedan 4D,Sedan,6
+16644.08787,22383,Chevrolet,Impala,Sedan 4D,Sedan,6
+15951.81117,26070,Chevrolet,Impala,Sedan 4D,Sedan,6
+16508.59069,27460,Chevrolet,Impala,Sedan 4D,Sedan,6
+15832.51835,31202,Chevrolet,Impala,Sedan 4D,Sedan,6
+15554.28313,33357,Chevrolet,Impala,Sedan 4D,Sedan,6
+25948.96259,636,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+27714.05025,5379,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+25097.47325,14461,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+24809.04232,16111,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+23345.32907,22964,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+22894.43868,26272,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+22064.29219,27384,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+23151.54614,27940,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+22120.75776,28242,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+20294.57682,33892,Chevrolet,Impala,SS Sedan 4D,Sedan,6
+18957.89004,5936,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+18950.90698,8687,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+17891.63378,17020,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+17801.22953,19386,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+16723.99388,19740,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+16744.03025,21829,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+16825.19088,23460,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+16543.98014,24583,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+16143.95729,26532,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+14914.20128,33906,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6
+19164.61063,1480,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+18800.9589,7961,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+17458.22153,15144,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+17158.922,21417,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+16472.89765,21675,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+16993.78033,23621,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+16300.46524,25697,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+15623.20027,27476,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+15138.40082,32462,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+15233.15987,32535,Chevrolet,Malibu,LS Sedan 4D,Sedan,6
+19471.97485,6608,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+18009.84603,15190,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+18273.00613,16335,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+18311.7563,17441,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+17553.75368,18451,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+18004.87041,18771,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+17663.22495,19490,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+17115.12203,24461,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+16988.30306,24905,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+16803.12275,25874,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6
+19446.88294,932,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+17119.45757,18277,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+17316.0966,19593,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+16860.87078,19883,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+17312.90715,21420,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+16403.25363,23133,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+16536.74388,24218,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+16341.8041,25394,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+16713.98469,26328,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+16295.21144,28239,Chevrolet,Malibu,LT Sedan 4D,Sedan,6
+18974.92203,5632,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+18324.83193,7397,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+19581.23141,7645,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+18169.37548,14754,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+17986.22409,17488,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+17173.94232,18721,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+16456.97464,20200,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+16267.09489,21452,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+16860.09433,22841,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+16027.28649,22889,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6
+17089.91883,8732,Chevrolet,Malibu,Sedan 4D,Sedan,6
+17463.04608,11393,Chevrolet,Malibu,Sedan 4D,Sedan,6
+17218.68575,14579,Chevrolet,Malibu,Sedan 4D,Sedan,6
+17162.47826,15903,Chevrolet,Malibu,Sedan 4D,Sedan,6
+16507.07027,17451,Chevrolet,Malibu,Sedan 4D,Sedan,6
+16752.5144,18562,Chevrolet,Malibu,Sedan 4D,Sedan,6
+16646.7708,20154,Chevrolet,Malibu,Sedan 4D,Sedan,6
+15623.91976,21272,Chevrolet,Malibu,Sedan 4D,Sedan,6
+15664.6249,25787,Chevrolet,Malibu,Sedan 4D,Sedan,6
+15680.86443,25956,Chevrolet,Malibu,Sedan 4D,Sedan,6
+18800.0931,5827,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+18910.80429,8345,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+19177.41206,10414,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+18040.14401,11647,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+17685.20099,15898,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+17515.39759,18602,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+16357.99232,23491,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+16345.94375,25931,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+15797.19576,26700,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+15503.5088,33345,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6
+21745.02944,7065,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+21725.01075,13457,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+22384.11869,14788,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+20537.14172,16950,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+21233.91136,17337,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+20676.16551,18021,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+20839.14997,22152,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+20017.96843,22729,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+18876.87065,27218,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+17586.92858,39049,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6
+23573.822,12466,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+23527.7285,14948,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+22113.62802,21992,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+22470.35843,22626,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+20619.11401,24067,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+20047.95136,24665,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+21525.33901,25020,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+20382.15031,25240,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+21020.83678,25550,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+20221.80881,26223,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6
+25452.47385,11892,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+23449.30633,17273,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+23578.16486,19148,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+22525.26972,19521,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+21982.64771,20472,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+22231.56315,21929,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+22189.11597,25651,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+21765.06658,25794,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+21403.75642,27168,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+21200.69021,31197,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8
+19682.03501,11554,Pontiac,Bonneville,SE Sedan 4D,Sedan,6
+18678.41412,16496,Pontiac,Bonneville,SE Sedan 4D,Sedan,6
+20318.89097,17583,Pontiac,Bonneville,SE Sedan 4D,Sedan,6
+20127.04418,18419,Pontiac,Bonneville,SE Sedan 4D,Sedan,6
+19751.04143,20510,Pontiac,Bonneville,SE Sedan 4D,Sedan,6
+17844.73077,21121,Pontiac,Bonneville,SE Sedan 4D,Sedan,6
+18856.01869,22423,Pontiac,Bonneville,SE Sedan 4D,Sedan,6
